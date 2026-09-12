@@ -557,23 +557,23 @@ body {
 ========================= */
 
 .service-card.wedding {
-    background-image: url("../images/Wedding\ Reception.jpg");
+    background-image: url("images/Wedding\ Reception.jpg");
 }
 
 .service-card.church {
-    background-image: url("../images/Church Feast.png");
+    background-image: url("images/Church Feast.png");
 }
 
 .service-card.school {
-    background-image: url("../images/School\ .png");
+    background-image: url("images/School\ .png");
 }
 
 .service-card.dj {
-    background-image: url("../images/DJ.png");
+    background-image: url("images/DJ.png");
 }
 
 .service-card.stage {
-    background-image: url("../images/Stage light.png");
+    background-image: url("images/Stage light.png");
 }
 
 /* Hover */
